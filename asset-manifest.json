@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todos/static/css/main.c64522c9.css",
+    "main.js": "/todos/static/js/main.b368e154.js",
+    "static/media/Roboto-Italic.ttf": "/todos/static/media/Roboto-Italic.beb7fe13e61b9e683c37.ttf",
+    "static/media/Raleway-Thin.ttf": "/todos/static/media/Raleway-Thin.37b903083fc82c0bdc17.ttf",
+    "static/media/Heebo-Thin.ttf": "/todos/static/media/Heebo-Thin.db17d96c220e8de661f4.ttf",
+    "index.html": "/todos/index.html",
+    "main.c64522c9.css.map": "/todos/static/css/main.c64522c9.css.map",
+    "main.b368e154.js.map": "/todos/static/js/main.b368e154.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c64522c9.css",
+    "static/js/main.b368e154.js"
+  ]
+}
